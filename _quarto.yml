@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+    - "!drafts/**"
+    - "!archive/**"
+
+website:
+  title: "Analyst Afoot"
+  # site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  navbar: false # turns off top navbar
+  sidebar:
+    style: "docked" # pinned to lhs
+    search: true
+    header: sidebar-profile.html
+    contents:
+      - text: "Home"
+        href: index.qmd
+        icon: house
+      - text: "Posts"
+        href: posts/index.qmd
+      - text: "About"
+        href: about.qmd
+  page-footer: 
+    right: "Built with ❤️, Quarto, & Claude Code. ©msdallowaygetslunch 2026. 
+    Photos may not be reproduced without permission. 🙏"
+
+format:
+  html:
+    theme:
+      - minty
+    css: styles.css
+    toc: true # toc listed on rhs of each post
+
+
+

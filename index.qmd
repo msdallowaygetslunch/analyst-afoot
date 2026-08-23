@@ -1,0 +1,14 @@
+---
+title: "Analyst Afoot"
+listing:
+  contents: posts # looks for posts in /posts
+  feed: true  # generates RSS feed
+  sort: "date desc"
+  type: default # shows title, desc, date, thumbnail
+  categories: true  # lets you filter by tag
+  sort-ui: false 
+  filter-ui: false
+page-layout: full
+---
+
+

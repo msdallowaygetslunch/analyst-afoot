@@ -1,0 +1,45 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      href: https://x.com/dallowayatlunch
+    - icon: github
+      href: https://github.com/msdallowaygetslunch/analyst-afoot
+
+---
+
+Hi there! 👋 Thanks for stopping by. 
+
+I'm Claire, a wandering analyst who loves learning about new-to-me places and plugging gaps in my knowledge.
+Planning for these trips can be extensive, so I'm sharing resources I've found useful. Hope they're useful to you as well! 
+
+Happy trails ~
+
+### Blog intended for travel inspiration only
+
+This blog focuses on exploring a place's history, economic development, and current activity while enjoying
+time walking, hiking, biking, and other outdoor activities. **BUT** I don't know you, your desired time spent outdoors, or desired level of physical activity.
+
+Please **do your research.** Take your safety seriously. Prepare for spending time outdoors as you would in your hometown. 
+
+At a minimum: 
+
+- Consult with local visitor centers on trail conditions, directions, tips. In unfamiliar places where infrastructure is limited, consider hiring a local guide or traveling with a tour. 
+- Seek advice from fellow travelers and/or others familiar with your destination. 
+- Be familiar with the trail and trail conditions, the weather forecast, and bugs and wildlife local to the area. 
+- Note sunrise and sunset times and plan your treks accordingly, with plenty of daylight. 
+- Bring paper and digital trail maps, a compass, and backup batteries to charge mobile phones. 
+- Wear outdoor clothes and shoes appropriate for your season and surroundings. 
+- Carry bug repellent, sunblock, basic first aid, plenty of water and snacks, an emergency blanket, lights or lamps, and other supplies for your safety. Potentially a washcloth, sanitizer, and/or disinfecting wipes as well. 
+
+### Credits & Disclaimers
+
+Views my own and do not reflect the views of any current or prior employer. 
+I receive no compensation for this blog or the recommended resources listed on it.  
+
+Site built with Quarto ❤️, with help from Claude Code on structure and formatting. 
+
+All photos copyright by author except cited works and `leaflet` maps. 🙏
