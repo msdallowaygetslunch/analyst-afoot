@@ -14,13 +14,20 @@ website:
   sidebar:
     style: "docked" # pinned to lhs
     search: true
-    header: sidebar-profile.html
+    header: |
+      ::: {.sidebar-profile}
+      ![](/profile.jpeg){.profile-img fig-alt="Profile photo"}
+
+      <div class="social-links">
+        <a href="https://x.com/dallowayatlunch" target="_blank"><i class="bi bi-twitter"></i></a>
+        <a href="https://github.com/msdallowaygetslunch/analyst-afoot" target="_blank"><i class="bi bi-github"></i></a>
+      </div>
+
+      :::
     contents:
       - text: "Home"
         href: index.qmd
         icon: house
-      - text: "Posts"
-        href: posts/index.qmd
       - text: "About"
         href: about.qmd
   page-footer: 

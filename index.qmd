@@ -2,7 +2,7 @@
 title: "Analyst Afoot"
 listing:
   contents: posts # looks for posts in /posts
-  feed: true  # generates RSS feed
+  feed: false  # generates RSS feed (set true + add site-url in _quarto.yml to enable)
   sort: "date desc"
   type: default # shows title, desc, date, thumbnail
   categories: true  # lets you filter by tag

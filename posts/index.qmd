@@ -1,5 +1,0 @@
----
-title: "Posts Index Placeholder"
-format: html
----
-

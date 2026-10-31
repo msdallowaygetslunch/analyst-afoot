@@ -31,6 +31,16 @@ a:hover {
   margin-bottom: 0.75rem;
 }
 
+/* Quarto wraps header markdown in <p> tags */
+.sidebar-profile p {
+  margin: 0;
+}
+
+.social-links p {
+  display: flex;
+  gap: 1rem;
+}
+
 .sidebar-navigation {
   text-align: center;
 }
