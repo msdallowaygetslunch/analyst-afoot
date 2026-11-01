@@ -1,6 +1,7 @@
 ---
 title: "Historic Footpath: The Nakasendo Way"
-date: "2026-10-31"
+date: "2026-10-30"
+description: "Tokugawa-era route from Edo to Kyoto"
 categories: [footpath, historic walks, pre-industrial, Japan]
 ---
 
@@ -110,8 +111,8 @@ The summary above is based on the excellent work of:
 | ------ | ----- | ---- | ----------- |
 | Penelope Francks | [_Japanese Economic Development: Theory and Practice, 3rd Edition_](https://www.goodreads.com/book/show/26121343-japanese-economic-development) | 2015 | Fascinating history of Japan's economic development from the Tokugawa era until World War II. |
 | Takatoshi Ito and Takeo Hoshi | [_The Japanese Economy, 2nd Edition_](https://mitpress.mit.edu/9780262357180/the-japanese-economy/) | 2020 | Seminal text on Japan's economy, with a focus on postwar development. |
-| Constantine Vaporis | [_Tour of Duty: Samurai, Military Service in Edo, and the Culture of Early Modern Japan_](https://uhpress.hawaii.edu/title/tour-of-duty-samurai-military-service-in-edo-and-the-culture-of-early-modern-japan/) | 2009 | The textbook history on the practice of alternate attendance. | 
 | Toshio G. Tsukahira | [_Feudal Control in Tokugawa Japan: the Sankin Kotai System_](https://archive.org/details/feudalcontrolint0000tsuk/mode/2up) | 1966 | Excellent monograph detailing alternate attendance and its economic effect on the daimyo. |
+| Constantine Vaporis | [_Tour of Duty: Samurai, Military Service in Edo, and the Culture of Early Modern Japan_](https://uhpress.hawaii.edu/title/tour-of-duty-samurai-military-service-in-edo-and-the-culture-of-early-modern-japan/) | 2009 | The textbook history on the practice of alternate attendance. | 
 
 ![](assets/nakasendo-banner-iii.jpeg)
 
